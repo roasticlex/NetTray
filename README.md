@@ -3,3 +3,5 @@
 <img width="244" height="202" alt="Screenshot 2026-07-26 014744" src="https://github.com/user-attachments/assets/4b702a88-3658-4e3c-9b2e-17286dbf4adf" />
 <br><br>
 Contact: roastx@gmail.com
+<br>
+Donate BTC: bc1qhwwz52rlhcc5nv3yqeyp5h2kdgj79gpxxd2mwp
